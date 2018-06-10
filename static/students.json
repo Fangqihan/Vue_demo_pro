@@ -1,0 +1,8 @@
+{"student_list": [
+  {"name":"alex", "age":24,"gender":"male"},
+  {"name":"bob", "age":21,"gender":"male"},
+  {"name":"jim", "age":25,"gender":"male"},
+  {"name":"anderson", "age":34,"gender":"male"},
+  {"name":"kate", "age":18,"gender":"female"},
+  {"name":"shanshan", "age":22,"gender":"female"}
+]}
